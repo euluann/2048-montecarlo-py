@@ -1,4 +1,4 @@
-8# Hi 👋, I'm Luan Pestana
+## Hi 👋, I'm Luan Pestana
 
 **A passionate backend developer from Brazil**  
 
